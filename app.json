@@ -10,8 +10,8 @@
     "3"
   ],
   "repository": "https://github.com/Anonymous-SK/Telegram-ORG-NSBot",
-  "success_url": "https://telegram.dog/Ns_Bot_Updates",
-  "website": "https://github.com/Anonymous-SK/Telegram-ORG-NSBot",
+  "success_url": "https://t.me/QUEEN_SUPPORTS_CHAT",
+  "website": "https://t.me/QUEEN_SUPPORTS_CHAT",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -46,7 +46,7 @@
     },
     "FTEXT": {
       "description": "the footer text that will be seen in the bot message, after the final edit",
-      "value": "🔊𝙱𝙾𝚃 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 :- @NS_Bot_Updates",
+      "value": "🔊𝙱𝙾𝚃 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 :- @QUEEN_NETWORK",
       "required": false
     },
     "START_TEXT": {
